@@ -1,6 +1,7 @@
 # SVSplit
 Approximate implementation of [Automatic Feature Decomposition for Single View Co-training](https://icml.cc/2011/papers/498_icmlpaper.pdf
 )
+
 *Approximate* because the constraint that all features should be used is included.
 
 Use:
