@@ -7,6 +7,7 @@ Use:
 
 ```python
 from svco import SVCoTrain
+import numpy as np
 
 # For example, all the method requires is a numpy matrix
 data = np.loadtxt('data.csv', delimiter=',')
